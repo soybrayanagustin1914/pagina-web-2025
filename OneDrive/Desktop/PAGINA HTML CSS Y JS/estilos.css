@@ -1,0 +1,207 @@
+body{
+    background-color: rgb(143, 235, 235);
+   
+  background: linear-gradient(to right, #a1c4fd, #c2e9fb);
+}
+
+h1{
+    font-size: xx-large;
+    font-family: sans-serif;
+}
+
+h2{
+    font-size: x-large;
+    font-family: sans-serif;
+}
+
+p{
+    font-size:x-large;
+    font-family: Lucida Sans;
+    text-align: justify;
+}
+
+ul{
+    font-size: x-large ;
+    font-family: Lucida Sans;
+}
+
+button{
+  background: #b35757;
+  color: white;
+    font-size: large;
+    background-color: cadetblue;
+    width: 200px;
+    height: 40px;
+
+}
+
+
+JS
+
+img.java{
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    display: block;
+}
+
+
+img.creador{
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    display: block;
+}
+
+img.evo{
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    display: block;
+}
+
+img.carac{
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    display: block;
+}
+
+PY
+
+img.py{
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    display: block;
+}
+
+img.creadorpy{
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    display: block;
+}
+
+img.pyact{
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    display: block;
+}
+
+pascal
+
+img.pascal{
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    display: block;
+}
+img.creadpsl{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    display: block;
+}
+img.compiladores{
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    display: block;
+}
+
+RUST 
+
+img.rust{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    display: block;
+}
+
+img.crearust{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    display: block;
+
+}
+
+img.rustact{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    display: block;
+
+}
+
+
+PERL 
+
+img.perl{
+
+    width: 800px;
+    height: 800px;
+    margin: auto;
+    display: block;
+}
+
+img.creaperl{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    display: block;
+}
+
+iframe{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    display: block;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#reloj {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-top: 20px;
+  color: white;
+}
+
+
+
