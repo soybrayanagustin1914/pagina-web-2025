@@ -1,0 +1,120 @@
+body{
+    background-color: rgb(221, 247, 255);
+    color
+}
+h1{
+    font-family: Cambria;
+}
+h2{
+    font-family: serif
+}
+h3{
+   font-family: arial ;
+}
+
+h2{
+color: rgb(165, 42, 104);
+
+    
+}
+h1{
+    background-color: rgb(77, 202, 77);
+    height: 100px;
+    width: 700px;
+    font-size: xx-larger;
+margin: auto;
+display: block;
+}
+.img1 {
+  width: 28%; 
+  height: auto;
+}
+
+.img2{
+  width: 25%;
+  height: auto;
+}
+
+h2{
+  font-size: x-large;
+}
+
+ 
+ iframe{
+    width: 600px;
+    height: 400px;
+ }
+
+ . iframe{
+    width: 600px;
+    height: 400px;
+ }
+
+ img.blog{
+  width: 25%;
+  height: auto;
+}
+img.canva{
+  width: 25%;
+  height: auto;
+}
+img.issuu{
+  width: 25%;
+  height: auto;
+}
+
+img.netiqueta{
+ width: 25%;
+  height: auto; 
+}
+img.herramientas{
+ width: 25%;
+  height: auto; 
+}
+img.ediciondeimagen{
+ width: 25%;
+  height: auto; 
+}
+img.edicionvideo{
+ width: 25%;
+  height: auto; 
+}
+
+img.ediciondeaudio{
+width: 25%;
+  height: auto; 
+
+}
+img.difucion{
+width: 25%;
+  height: auto; 
+
+}
+img.educacion{
+width: 25%;
+  height: auto; 
+
+}
+
+
+
+
+#btnArriba {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    display: none; 
+    background-color: rgb(77, 127, 202);
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+    z-index: 1000;
+}
+
+#btnArriba:hover {
+    background-color: rgb(160, 112, 50);
+}
